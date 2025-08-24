@@ -16,7 +16,7 @@ A Python-based network packet sniffer that captures and analyzes network traffic
 -  **Timestamps**: Logs capture time for each packet
 -  **Filtering**: Optional packet count and interface selection
 
-# Installation 🛠
+# Installation 
 
 # Prerequisites
 - Python 3.8 or higher
@@ -33,3 +33,4 @@ A Python-based network packet sniffer that captures and analyzes network traffic
    "Successfully captured and analyzed DNS and HTTPS traffic in real-time"
 
    
+
